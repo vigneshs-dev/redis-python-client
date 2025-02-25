@@ -71,8 +71,8 @@ sudo systemctl enable redis-server
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/vigneshs-dev/redis-python-client.git
+   cd redis-python-client
    ```
 
 2. Set up a virtual environment (recommended):
