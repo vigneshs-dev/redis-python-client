@@ -1,4 +1,4 @@
-# Redis Python Client Example
+# Redis Python Client
 
 This repository contains simple Python examples for interacting with Redis, a popular in-memory data structure store.
 
